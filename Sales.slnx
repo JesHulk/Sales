@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Sales.API/Sales.API.csproj" />
+  <Project Path="Sales.Mobile/Sales.Mobile.csproj" />
+  <Project Path="Sales.Shared/Sales.Shared.csproj" />
+  <Project Path="Sales.WEB/Sales.WEB.csproj" />
+</Solution>
